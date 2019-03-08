@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "ten": "Nguyen Van Cuong",
+        "sdt": "0989351622",
+        "quyen": "Admin"
+    },
+    {
+        "id": 2,
+        "ten": "Nguyen Van A",
+        "sdt": "0123456789",
+        "quyen": "User"
+    },
+    {
+        "id": 3,
+        "ten": "Nguyen Van B",
+        "sdt": "0987655622",
+        "quyen": "User"
+    },
+    {
+        "id": 4,
+        "ten": "Nguyen Van C",
+        "sdt": "0986554990",
+        "quyen": "User"
+    },
+    {
+        "id": 5,
+        "ten": "Nguyen Van D",
+        "sdt": "0987611622",
+        "quyen": "User"
+    },
+]
